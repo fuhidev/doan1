@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ExamSchedule.GUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="studentPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documents\Visual Studio 2013\Projects\DoAn1\data\DS_SV.xlsx</Value>
+    </Setting>
+    <Setting Name="coursePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documents\Visual Studio 2013\Projects\DoAn2\data\DS_MON.xlsx</Value>
+    </Setting>
+    <Setting Name="roomPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documents\Visual Studio 2013\Projects\DoAn2\data\DS_PHONG.xlsx</Value>
+    </Setting>
+    <Setting Name="registerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documents\Visual Studio 2013\Projects\DoAn2\data\DS_DKMH.xlsx</Value>
+    </Setting>
+    <Setting Name="schedulePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
